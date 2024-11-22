@@ -1,0 +1,19 @@
+{
+  "header": {
+    "title": "Furniture Utsav",
+    "imageUrl": "https://via.placeholder.com/800x300",
+    "discount": "Flat 15% OFF"
+  },
+  "categories": [
+    { "name": "Living Room", "icon": "https://via.placeholder.com/50" },
+    { "name": "Bedroom", "icon": "https://via.placeholder.com/50" },
+    { "name": "Storage", "icon": "https://via.placeholder.com/50" }
+  ],
+  "offers": [
+    { "title": "Extra ₹100 off on SBI", "details": "Applicable on SBI Credit Card. No code required." },
+    { "title": "Flat 15% Off", "details": "Get flat 15% off. Use Coupon XYZ." }
+  ],
+  "deals": [
+    { "title": "Flex 3 Seater Magic Sofa", "price": "₹10,499", "discount": "72%", "imageUrl": "https://via.placeholder.com/150" }
+  ]
+}
